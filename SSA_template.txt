@@ -1,0 +1,14 @@
+TN = #
+TP = #
+FP = #
+FN = #
+
+Sensitivity = TP/(TP + FN)
+# (Number of true positive assessment)/(Number of
+#  all positive assessment)
+Specificity = TN/(TN + FP)
+# (Number of true negative assessment)/(Number of 
+#  all negative assessment)
+Accuracy   = (TN + TP)/(TN+TP+FN+FP) 
+# (Number of correct assessments)/Number of
+#  all assessments)
