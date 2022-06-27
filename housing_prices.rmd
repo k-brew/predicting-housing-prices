@@ -1,7 +1,6 @@
 ---
 title: "Predicting Housing Prices"
 author: "Kyle Brewster"
-date: '2022-05-30'
 output: html_document
 ---
 
